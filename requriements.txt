@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit
+# Minimal libraries for the rule-based scoring logic are built-in (re, math, json).
+
+# Libraries recommended for full completion of the rubric:
+# language-tool-python (For Grammar Errors)
+# nltk (For sentiment/semantic analysis)
